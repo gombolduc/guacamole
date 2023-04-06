@@ -1,2 +1,2 @@
 # guacamole
-Just a plain guacamole recipe
+Just a plain ol' guacamole recipe
